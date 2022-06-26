@@ -41,7 +41,7 @@ body{
     align-items: center;
 }
 .main_controls{
-    display: flex;
+    /* display: flex; */
     background-color: #1c1E20;
     color:whitesmoke;
     padding:5px;
